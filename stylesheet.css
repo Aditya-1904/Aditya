@@ -107,8 +107,9 @@ a {
 
 .btn {
   padding: 12px 24px;
-  color: white;
+  color: black;
   display: inline-block;
+
   opacity: 0.8;
   border-radius: 4px;
   text-align: center;
@@ -129,21 +130,6 @@ a {
   top: 7px;
   box-shadow: none;
 }
-
-.btn {
-  border: 1px solid #3498db;
-  background:none;
-  padding: 10px 20px;
-  font-size: 20px;
-  cursor: pointer;
-  margin:10px;
-  transition: 0.8s;
-  position: relative;
-  overflow: hidden;
-
-}
-
-
 
 
 
@@ -318,3 +304,4 @@ a{
   color: white;
 
 }
+
